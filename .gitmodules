@@ -1,0 +1,3 @@
+[submodule "shabble"]
+	path = .irssi/scripts/shabble
+	url = gh:shabble/irssi-scripts

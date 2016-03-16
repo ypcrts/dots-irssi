@@ -1,0 +1,1 @@
+../shabble/vim-mode/vim_mode.pl

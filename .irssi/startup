@@ -1,0 +1,5 @@
+; comment
+script load go
+script load trackbar
+script load nickcolor
+script load highlite
